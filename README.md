@@ -1,4 +1,5 @@
 # 🧩 MilaPuzzleChat
+- [Download Plugin](https://milahosting.com/MilaPuzzleChat.rar)
 - [MilaPlugins](https://unturnedplugins.milahosting.com)
 
 ## 📚 Índice / Table of Contents
